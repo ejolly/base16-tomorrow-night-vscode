@@ -230,8 +230,7 @@
 				"punctuation.definition.italic"
 			],
 			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#b294bb"
+				"fontStyle": "normal"
 			}
 		},
 		{
